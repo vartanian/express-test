@@ -1,0 +1,23 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "tester used to warmup",
+  "main": "app.js",
+  "scripts": {
+    "test": "testit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vartanian/express-test.git"
+  },
+  "keywords": [
+    "test",
+    "express"
+  ],
+  "author": "jack stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vartanian/express-test/issues"
+  },
+  "homepage": "https://github.com/vartanian/express-test#readme"
+}
